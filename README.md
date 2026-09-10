@@ -154,21 +154,17 @@ I pushed my project to GitHub.
 ## Project Structure
 The project is organized into Python, database and data folders.
 datakern-engineering-foundation/
-|
 ├── python/
 │   ├── program_01.py
 │   ├── program_02.py
 │   └── program_03.py
-|
 ├── database/
 │   ├── 01_create_database.sql
 │   ├── 02_create_tables.sql
 │   ├── 03_load_data.sql
 │   └── 04_analysis_queries.sql
-|
 ├── data/
 │   └── README.md
-|
 ├── README.md
 ├── requirements.txt
 └── .gitignore
