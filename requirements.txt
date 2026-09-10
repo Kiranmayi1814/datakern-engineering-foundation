@@ -1,0 +1,6 @@
+Python 3.12.1
+VS Code 1.137.0
+Git 2.45.1.windows.1
+GitHub Public Repository
+PostgreSQL 17
+psql PostgreSQL 17
