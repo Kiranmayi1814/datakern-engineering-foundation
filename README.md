@@ -153,7 +153,7 @@ I pushed my project to GitHub.
 
 ## Project Structure
 The project is organized into Python, database and data folders.
-```text
+
 datakern-engineering-foundation/
 ├── python/
 │   ├── program_01.py
