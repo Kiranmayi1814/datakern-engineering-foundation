@@ -154,6 +154,11 @@ I pushed my project to GitHub.
 ## Project Structure
 The project is organized into Python, database and data folders.
 
+## Project Structure
+
+The project is organized into Python, database and data folders.
+
+```text
 datakern-engineering-foundation/
 ├── python/
 │   ├── program_01.py
@@ -169,8 +174,12 @@ datakern-engineering-foundation/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ## Conclusion
+
 I completed the Python programs, table creation, data loading, data verification and SQL analysis.
+
 I also used Git and GitHub to manage and save my project.
+
 This assignment helped me practice Python, SQL, PostgreSQL and Git in one project.
